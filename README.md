@@ -1,5 +1,8 @@
 # deeplink_tutorial
 
+you can read the explanations here -> https://medium.com/@olmezsude/how-to-use-uni-links-for-deep-linking-in-flutter-with-navigation-service-f1b0cedd2fea
+
+
 A new Flutter project.
 
 ## Getting Started
